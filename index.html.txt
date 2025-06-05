@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Top Casques Gaming 2025</title>
+<link rel="stylesheet" href="style.css" />
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap" rel="stylesheet" />
+</head>
+<body>
+<header>
+  <h1>🎧 Top Casques Gaming 2025</h1>
+  <p>Découvrez les meilleurs casques pour gamers en 2025</p>
+</header>
+
+<main class="products">
+  <div class="product-card">
+    <img src="assets/logitech-gprox.jpg" alt="Logitech G Pro X" />
+    <h2>Logitech G Pro X</h2>
+    <a href="https://www.amazon.fr/dp/B09X1XMPK8?tag=tonidaff" target="_blank" rel="noopener noreferrer">Voir sur Amazon</a>
+  </div>
+
+  <div class="product-card">
+    <img src="assets/hyperx-cloudii.jpg" alt="HyperX Cloud II" />
+    <h2>HyperX Cloud II</h2>
+    <a href="https://www.amazon.fr/dp/B00SAYCVTQ?tag=tonidaff" target="_blank" rel="noopener noreferrer">Voir sur Amazon</a>
+  </div>
+
+  <div class="product-card">
+    <img src="assets/steelseries-arctis7.jpg" alt="SteelSeries Arctis 7" />
+    <h2>SteelSeries Arctis 7</h2>
+    <a href="https://www.amazon.fr/dp/B07FZVXS8H?tag=tonidaff" target="_blank" rel="noopener noreferrer">Voir sur Amazon</a>
+  </div>
+</main>
+
+<footer>
+  <p>© 2025 - TopCasquesGaming. Ce site participe au Programme Partenaires d’Amazon.</p>
+</footer>
+</body>
+</html>
